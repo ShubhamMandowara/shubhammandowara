@@ -6,7 +6,11 @@ I am an **AWS certified machine learning specialist** with extensive experience 
 
 I have a strong background in data analytics and deep learning, with a focus on fintech,blockchain, and stock market applications. My project portfolio spans diverse domains, and I'm currently focused on LLM and langchain based applications and credit scoring in DeFi blockchain. I excel in software engineering, machine learning, and MLOps, and **I'm open to new opportunities in Artifical Engineer, Machine Learning, MLOps engineer**. 
 
-**Feel free to connect with me for networking and collaboration.**
+**Reach out to me for networking and collaboration.**
+
+Email 📫: shubham77mandowara@gmail.com
+
+Social Media: [Linkedin](https://www.linkedin.com/in/shubhammandowara/)
 
 ## Quick start
 ------------
@@ -45,11 +49,8 @@ I have a strong background in data analytics and deep learning, with a focus on 
 
 
 
-### Reach out to me on [linkedin](https://www.linkedin.com/in/shubhammandowara/)
+
  
-
-
-
 
 
 
