@@ -47,6 +47,8 @@ Social Media: [Linkedin](https://www.linkedin.com/in/shubhammandowara/)
 
  **Documentation and Task:** : Jira | Confluence | notion | miro 
 
+ **Showcase Work** : Streamlit | Gradio
+
 
 
 
