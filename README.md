@@ -1,4 +1,4 @@
-[![GitHub Actions Demo](https://github.com/ShubhamMandowara/shubhammandowara/actions/workflows/github-actions-demo.yml/badge.svg)](https://github.com/ShubhamMandowara/shubhammandowara/actions/workflows/github-actions-demo.yml)
+[![GitHub Status](https://github.com/ShubhamMandowara/shubhammandowara/actions/workflows/github-actions-demo.yml/badge.svg)](https://github.com/ShubhamMandowara/shubhammandowara/actions/workflows/github-actions-demo.yml)
 ## Hi, I'm Shubham Mandowara 👋
 
 I am an **AWS certified machine learning specialist** with extensive experience in MLOps, ML and DL.
