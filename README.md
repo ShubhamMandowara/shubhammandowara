@@ -1,3 +1,4 @@
+![workflow](https://github.com/github/docs/actions/workflows/github-actions-demo.yml/badge.svg)
 ## Hi, I'm Shubham Mandowara 👋
 
 I am an **AWS certified machine learning specialist** with extensive experience in MLOps, ML and DL.
