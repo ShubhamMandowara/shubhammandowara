@@ -3,7 +3,7 @@
 
 I am an **AWS certified machine learning specialist** with extensive experience in MLOps, ML and DL.
 
-**I have total 5+ years of experience and with in that 4+ being an Machine Learning Engineer.**
+**I have total 7+ years of experience and with in that 5+ being an Machine Learning Engineer.**
 
 I have a strong background in data analytics and deep learning, with a focus on fintech,blockchain, and stock market applications. My project portfolio spans diverse domains, and I'm currently focused on LLM and langchain based applications and credit scoring in DeFi blockchain. I excel in software engineering, machine learning, and MLOps, and **I'm open to new opportunities in Artifical Intelligence Engineer, Machine Learning, MLOps engineer**. 
 
